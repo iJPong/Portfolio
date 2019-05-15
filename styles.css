@@ -19,3 +19,12 @@ body {
 .navitem {
   padding-left: 910px;
 }
+
+/* footer */
+footer {
+  padding: 50px 300px;
+}
+
+.footer-link {
+  margin: 0 8px;
+}
