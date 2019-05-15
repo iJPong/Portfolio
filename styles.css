@@ -1,0 +1,21 @@
+body {
+  background-image: url('./images/creative_work.jpg');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-position-y: 4rem;
+  background-size: 60%;
+}
+.pagecontent {
+  margin: 200px 200px;
+  padding-left: 100px;
+  padding-right: 800px;
+}
+.navbar {
+  margin-top: 2rem;
+}
+.container {
+  margin-left: 15rem;
+}
+.navitem {
+  padding-left: 910px;
+}
